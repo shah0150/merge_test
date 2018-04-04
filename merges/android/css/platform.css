@@ -1,0 +1,15 @@
+/* This is Android platform.css */
+
+.event.received {
+    background-color: #FF0000;
+}
+.header-bar {
+    background-color: #00BCD4;
+    color: black;
+    font-size: 14px;
+    line-height: 2;
+    height: 48px;
+}
+.fab {
+    background-color: #006064;
+}
